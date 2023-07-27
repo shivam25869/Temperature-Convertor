@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:rgba(127, 255, 212, 0.449);
+}
+.txt{
+    text-align: center;
+    margin-bottom: 5%;
+    font-size: 40px;
+}
+.box{
+    text-align: center;
+}
+.txt1 {
+    font-size: 30px;
+}
+ input{
+    font-size: 20px;
+    border-radius: 50px;
+    margin-bottom: 15px;
+}
+.btn button{
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    border: 2px solid gray;
+}
+.box1{
+    background-color: rgb(0, 255, 13);
+    padding-top: 35px;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding-bottom:50px ;
+    border: 2px solid black;
+    border-radius: 50px;
+}
+.box2{
+    background-color: rgba(255, 0, 0, 0.464);
+    padding-top: 35px;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding-bottom:50px ;
+    border: 2px solid black;
+    border-radius: 50px;
+}
